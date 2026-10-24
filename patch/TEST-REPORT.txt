@@ -1,0 +1,20 @@
+Release 1.0 validation - 24 October 2026
+
+PASS: Clean installation from the original English ZIP (one ISO).
+PASS: Direct ISO installation, destination path containing spaces.
+PASS: All 194 required original files verified by size and SHA256.
+PASS: 55 compressed graphics expanded.
+PASS: ZIP and ISO installation outputs agree for all manifest assets.
+PASS: Patched executable, adapter and expanded graphics match the earlier
+      Windows 11 installation used for the interactive gameplay tests.
+PASS: New saved directory is empty.
+PASS: Existing destination refused without overwriting it.
+PASS: Invalid ISO refused.
+PASS: ISO with one modified executable byte refused by hash verification.
+PASS: Failed installations leave no final destination or staging directory.
+
+Earlier interactive checks on the same Windows 11 x64 PC included startup,
+room selection, first rooms, shooting and aspect-preserving display.
+The user explicitly confirmed keyboard movement during those checks.
+This release is not a complete campaign or multi-PC compatibility test.
+See README-EN.txt for unsupported features and movie playback limitations.

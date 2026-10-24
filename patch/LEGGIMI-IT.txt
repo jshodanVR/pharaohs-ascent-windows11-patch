@@ -1,0 +1,62 @@
+PHARAOH'S ASCENT - PATCH WINDOWS 11 / FULL HD 1.0
+Patch di compatibilita' non ufficiale, 24 ottobre 2026
+
+INSTALLAZIONE
+1. Estrai lo ZIP della PATCH in una cartella.
+2. Fai doppio clic su INSTALL.cmd.
+3. Seleziona lo ZIP ORIGINALE del gioco:
+   Pharaoh-s-Ascent_Win_EN_ISO-Version.zip
+   Puoi anche selezionare il file Pharaohs Ascent.iso che contiene.
+4. Scegli una cartella in cui creare la nuova installazione.
+   Verra' creata una sottocartella Pharaohs-Ascent-Windows11.
+5. Apri la nuova cartella e avvia PLAY.cmd.
+
+Non devi installare il gioco per XP, montare l'ISO o installare Python.
+Non servono privilegi amministrativi. Sono usati componenti di Windows.
+La cartella di destinazione deve essere NUOVA: nessuna installazione o
+salvataggio esistente viene sovrascritto. Gli originali restano invariati.
+
+VERSIONE SUPPORTATA
+Versione inglese ISO presente su:
+https://www.myabandonware.com/game/pharaoh-s-ascent-rgo
+SHA256 dell'originale DATA/PHARAOH.EXE:
+85889dc601adfc0e517d1de19dcdc8d735502c784a200a3c90e20e66bc3810be
+Sono verificati anche tutti i 194 file originali necessari.
+Versioni diverse, traduzioni e file gia' modificati vengono rifiutati.
+
+IMMAGINE E COMANDI
+Finestra iniziale 1920x1080; immagine 4:3 di 1440x1080, bande da 240 pixel.
+F11 oppure Alt+Invio: schermo intero alla risoluzione corrente del monitor.
+F10: riduci a icona. Configurazione: PharaohHD.ini, da modificare a gioco chiuso.
+La grafica originale viene ingrandita mantenendo le proporzioni, non rifatta.
+Invio: entra nella stanza. Frecce / tastierino: movimento (Bloc Num spento).
+Spazio + direzione: salto. Ctrl + direzione: colpo con il bastone.
+Giu' + Spazio: accovacciati. Su: rialzati. Ctrl+Z: ricomincia la stanza.
+Ctrl+X: torna alla piramide, quindi Exit per uscire.
+Porta il puntatore in alto per mostrare il menu originale.
+
+LIMITI
+Avvia sempre PLAY.cmd: salta i vecchi filmati con /NV.
+La riproduzione dei filmati dentro il gioco non e' corretta da questa patch;
+non riattivarla dalle preferenze. Gli AVI originali sono conservati in DATA.
+Non sono inclusi filmati convertiti, codec o lettori esterni.
+La guida originale HLP e' conservata, ma non viene installato WinHelp.
+Verificati avvio, prime stanze, selezione con mouse, movimento da tastiera
+anche con prova manuale, e ridimensionamento su un PC Windows 11 x64.
+Non e' stata verificata l'intera campagna o ogni configurazione hardware.
+Il gioco mantiene le proprie preferenze e il comportamento dei salvataggi.
+La patch non garantisce che il gioco non utilizzi il registro utente.
+
+SALVATAGGI E RIMOZIONE
+I salvataggi dell'autore non sono inclusi. Conserva una copia della cartella
+saved della tua installazione prima di rimuoverla. Per disinstallare, chiudi
+il gioco ed elimina solo la cartella nuova; lo ZIP originale resta intatto.
+Non sono previsti aggiornamento sul posto o migrazione automatica dei salvataggi.
+
+DISTRIBUZIONE
+Questo pacchetto contiene solo adattatore, differenze binarie, installatore,
+hash e sorgenti. NON contiene una copia completa dell'eseguibile originale,
+grafica, audio, video o salvataggi del gioco. Ogni utente fornisce il gioco.
+Patch non affiliata ad Ambertec, Microsoft o My Abandonware.
+Il gioco e i suoi marchi restano dei rispettivi titolari.
+Vedi README-EN.txt per istruzioni da riga di comando e dettagli.
